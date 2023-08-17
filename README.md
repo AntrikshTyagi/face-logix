@@ -1,4 +1,4 @@
-## A System and Method for Taking Attendance in Educational and Professional Settings
+## FaceLogix
 
 - Web Application for a Smart Attendance System based on Facial Recognition Method
 
