@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "facelogix",
+    "site": "facial-attendance",
     "public": "build",
     "ignore": [
       "firebase.json",
