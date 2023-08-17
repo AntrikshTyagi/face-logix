@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "facelogix",
     "public": "build",
     "ignore": [
       "firebase.json",
