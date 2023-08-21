@@ -64,5 +64,3 @@ InfoCard.propTypes = {
 };
 
 export default InfoCard;
-
-
