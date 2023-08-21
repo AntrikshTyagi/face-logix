@@ -4,14 +4,19 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 8px;
   width: 91.75%;
+  margin-top: 2%;
+}
+
+.attendance-option-web {
+  margin: 0;
+  height: 100%;
 }
 
 .text-box-input {
   display: block;
   align-self: center;
-  width: 100%;
+  width: 97.65%;
   padding: 3%;
   border: 2px rgba(46, 108, 54, 1) solid;
   border-radius: 1rem;
@@ -21,6 +26,10 @@
   color: rgba(46, 108, 54, 1);
   text-align: center;
   resize: none;
+}
+
+.text-box-input-web {
+  height: 100%;
 }
 
 .download-button {
