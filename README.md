@@ -58,8 +58,8 @@
 * [Anjali Phadke](https://www.linkedin.com/in/anjali-phadke-604986251/)
 * [Pranshu Jain](https://www.linkedin.com/in/pranshu-jain-7689041a5/)
 
-## Current Goals
+## Face Logix
 
-- To use the web app in web view of mobile app
-- To connect the mobile application to database
-- To show the attendance on the mobile application
+- This is a testing sub repository
+- For production, visit the attendease repository (Public Now!)
+- Currently working on: Autodeployment using firebase (mostly done)
